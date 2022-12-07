@@ -1,0 +1,5 @@
+[appServers]
+
+# 52.50.106.148 ansible_user=ec2-user
+
+172.31.34.47 ansible_python_interpreter="/usr/bin/python3"
